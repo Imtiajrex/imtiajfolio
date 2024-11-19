@@ -1,6 +1,6 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-b
 sections: []
 ---
